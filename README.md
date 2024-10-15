@@ -14,7 +14,7 @@ This is a Fitness Tracker application built with React, TypeScript, and Vite. It
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/fitness-tracker-app.git
+   git clone https://github.com/devang115/fitness-tracker-app.git
    cd fitness-tracker-app
    ```
 
